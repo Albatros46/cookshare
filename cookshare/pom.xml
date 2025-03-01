@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.2</version>
+		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sakcadag</groupId>
-	<artifactId>cookshare</artifactId>
+	<artifactId>cookShare</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cookshare</name>
-	<description>Eine Online-Plattform zum Austausch von Rezepten</description>
+	<name>cookShare</name>
+	<description>Java Fullstack project with React</description>
 	<url/>
 	<licenses>
 		<license/>
