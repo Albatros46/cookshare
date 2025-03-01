@@ -25,4 +25,8 @@ public class User {
     private Set<Recipe> recipe;
     @Transient //Bu, reviews listesinin veritabanında bir sütun olarak saklanmayacağını gösteriyor.
     private List<Review> reviews;
+
+    public User(String username) {
+        this.username = username;
+    }
 }
